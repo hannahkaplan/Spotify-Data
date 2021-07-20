@@ -1,0 +1,51 @@
+,id,name,popularity,artists,id_artists,release_date,danceability,energy,speechiness,instrumentalness,valence
+93802,4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),100,"['Justin Bieber', 'Daniel Caesar', 'Giveon']","['1uNFoZAHBGtllmzznpCI3s', '20wkVLutqVOYrc0kxFs7rA', '4fxd5Ee7UefO4CUXgwJ7IP']",2021-03-19,0.677,0.696,0.119,0.0,0.464
+93803,7lPN2DXiMsVn7XUKtOW1CS,drivers license,99,['Olivia Rodrigo'],['1McMsnEElThX1knmY4oliG'],2021-01-08,0.585,0.436,0.0601,1.31e-05,0.132
+93804,3Ofmpyhv5UAQ70mENzB277,Astronaut In The Ocean,98,['Masked Wolf'],['1uU7g3DNSbsu0QjSEqZtEd'],2021-01-06,0.778,0.695,0.0913,0.0,0.472
+93805,7MAibcTli4IisCtbHKrGMh,Leave The Door Open,96,"['Bruno Mars', 'Anderson .Paak', 'Silk Sonic']","['0du5cEVh5yTK9QJze8zA0C', '3jK9MiCrA42lLAdMGUZpwa', '6PvvGcCY2XtUcSRld1Wilr']",2021-03-05,0.586,0.616,0.0324,0.0,0.719
+93806,7Bk0uXKk1uPT0XuQbpFzvs,Fiel,94,"['Los Legendarios', 'Wisin', 'Jhay Cortez']","['0n6sKrG0xKAf8xmdqeNGke', '3E6xrwgnVfYCrCs0ePERDz', '0EFisYRi20PTADoJrifHrz']",2021-02-04,0.849,0.701,0.06,0.0,0.505
+93807,4cG7HUWYHBV6R6tHn1gxrl,Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit,94,"['Riton', 'Nightcrawlers', 'Mufasa & Hypeman', 'Dopamine']","['7i9j813KFoSBMldGqlh2Z1', '1gALaWbNDnwS2ECV09sn2A', '4L2dV3zY7RmkeiNO035Fi0', '3Edve4VIATi0OZngclQlkN']",2021-01-15,0.824,0.862,0.126,0.000132,0.801
+93808,5YYW3yRktprLRr47WK219Y,Ella No Es Tuya - Remix,92,"['Rochy RD', 'Myke Towers', 'Nicki Nicole']","['4riOEaOW5hCeqomFDBk0aP', '7iK8PXO48WeuP03g8YR51W', '2UZIAOlrnyZmyzt1nuXr9y']",2021-02-03,0.585,0.611,0.288,0.0,0.962
+93811,4u4NyuceXP7Uzh7XFJKCr1,Hold On,92,['Justin Bieber'],['1uNFoZAHBGtllmzznpCI3s'],2021-03-05,0.658,0.634,0.0413,0.0,0.29
+93812,3iw6V4LH7yPj1ESORX9RIN,Wellerman - Sea Shanty / 220 KID x Billen Ted Remix,92,"['Nathan Evans', '220 KID', 'Billen Ted']","['1PKErrAhYFdfrDymGHRQRo', '4Euia7UzdRshy1DJOSMTcs', '5PoZtBo8xZKqPWlZrIDq82']",2021-01-21,0.722,0.893,0.0475,0.000937,0.439
+93809,1XXimziG1uhM0eDNCZCrUl,Up,92,['Cardi B'],['4kYSro6naA4h99UJvo89HB'],2021-02-05,0.868,0.795,0.269,0.0193,0.819
+93810,5uEYRdEIh9Bo4fpjDd4Na9,Goosebumps - Remix,92,"['Travis Scott', 'HVME']","['0Y5tJX1MQlPlqiwlOH1tJY', '2o08sCWF5yyo2G4DCiT7T9']",2021-01-15,0.841,0.593,0.0379,0.0,0.808
+93816,1diS6nkxMQc3wwC4G1j0bh,We're Good,91,['Dua Lipa'],['6M2wZ9GZgrQXHCFfjv46we'],2021-02-11,0.722,0.588,0.0544,0.0,0.59
+93815,3aQem4jVGdhtg116TmJnHz,What’s Next,91,['Drake'],['3TVXtAsR1Inumwj472S9r4'],2021-03-05,0.781,0.594,0.0485,0.0,0.0628
+93813,2TksvaRivgAEj780DgRB73,911,91,['Sech'],['77ziqFxp5gaInVrF2lj4ht'],2021-02-05,0.795,0.655,0.0422,1.76e-06,0.744
+93814,5YaskwnGDZFDRipaqzbwQx,Your Love (9PM),91,"['ATB', 'Topic', 'A7S']","['7jZM5w05mGhw6wTB1okhD9', '0u6GtibW46tFX7koQ6uNJZ', '5Wg2b4Mp42gicxEeDNawf7']",2021-01-15,0.669,0.784,0.112,6.28e-06,0.517
+93819,6fRxMU4LWwyaSSowV441IU,Beautiful Mistakes (feat. Megan Thee Stallion),90,"['Maroon 5', 'Megan Thee Stallion']","['04gDigrS5kc9YWfZHwBETP', '181bsRPaVXVlUKXrxwZfHK']",2021-03-03,0.713,0.676,0.027,0.0,0.721
+115733,2etHQJxIbV0soyPhelVs9Y,Best Friend (feat. Doja Cat),90,"['Saweetie', 'Doja Cat']","['6cK3NBO6uP7hh0oyuVELFl', '5cj0lLjcoR7YOSnhnX0Po5']",2021-01-07,0.84,0.766,0.136,3.61e-06,0.402
+93822,31qCy5ZaophVA81wtlwLc4,Anyone,90,['Justin Bieber'],['1uNFoZAHBGtllmzznpCI3s'],2021-01-01,0.686,0.538,0.0345,3.13e-06,0.584
+93817,079Ey5uxL04AKPQgVQwx5h,Baila Conmigo (with Rauw Alejandro),90,"['Selena Gomez', 'Rauw Alejandro']","['0C8ZW7ezQVs4URX5aX7Kqx', '1mcTU81TzQhprhouKaTkpq']",2021-03-12,0.823,0.544,0.0715,0.00315,0.664
+93820,61KpQadow081I2AsbeLcsb,deja vu,90,['Olivia Rodrigo'],['1McMsnEElThX1knmY4oliG'],2021-04-01,0.439,0.61,0.116,1.07e-05,0.172
+93823,65OVbaJR5O1RmwOQx0875b,Wants and Needs (feat. Lil Baby),89,"['Drake', 'Lil Baby']","['3TVXtAsR1Inumwj472S9r4', '5f7VJjfbwm532GiveGC0ZK']",2021-03-05,0.578,0.449,0.286,2.17e-06,0.1
+93825,2MZQAvsA7aZDssppBLRxYp,Batom de Cereja - Ao Vivo,89,['Israel & Rodolffo'],['41QLxRXlc2NwfJZkHGHKid'],2021-01-29,0.606,0.908,0.0565,0.0,0.798
+93821,43PGPuHIlVOc04jrZVh9L6,RAPSTAR,89,['Polo G'],['6AgTAQt8XS6jRWi4sX7w49'],2021-04-09,0.789,0.536,0.242,0.0,0.437
+93818,3UHPGOkUcE4hE7sqBF4Snt,Film out,88,['BTS'],['3Nrfpe0tUJi4K4DXYWgMUX'],2021-04-01,0.499,0.709,0.134,0.0,0.314
+93838,1nahzW3kfMuwReTka28tH5,Hold On,88,['Justin Bieber'],['1uNFoZAHBGtllmzznpCI3s'],2021-03-19,0.658,0.634,0.0431,0.0,0.302
+93856,7FdUvDkaE24o3FPIWTvzv2,Follow You,87,['Imagine Dragons'],['53XhwfbYqKCa1cC15pYq2q'],2021-03-12,0.542,0.732,0.0521,7.92e-05,0.489
+93854,58pgi1RpcU2fVJsxhm7BIr,Tapão Na Raba,87,['Raí Saia Rodada'],['0NiaKn55OzJswiYevvlKfz'],2021-01-22,0.808,0.796,0.0305,0.000269,0.799
+93852,0siYMEsGrzzzlWLXK5zJfS,BED,87,"['Joel Corry', 'RAYE', 'David Guetta']","['6DgP9otnZw5z6daOntINxp', '5KKpBU5eC2tJDzf0wmlRp2', '1Cs0zKBU1kc0i8ypK3B9ai']",2021-02-26,0.671,0.782,0.0341,0.00221,0.618
+93859,0VWLId2RwPCno9s1cJm2Vy,Travesuras - Remix,86,"['Nio Garcia', 'Casper Magico', 'Ozuna', 'Wisin & Yandel', 'Myke Towers', 'Flow La Movie']","['5hdhHgpxyniooUiQVaPxQ0', '1fux65HMCBvfJHqlBc4Nno', '1i8SpTcr7yvPOmcqrbnVXY', '1wZtkThiXbVNtj6hee6dz9', '7iK8PXO48WeuP03g8YR51W', '2oT7xd9iTO2ejLsNGIMa5f']",2021-03-11,0.739,0.788,0.0731,0.0,0.473
+93864,7I8L3vYCLThw2FDrE6LuzE,Además de Mí - Remix,86,"['Rusherking', 'KHEA', 'Duki', 'Maria Becerra', 'Lit Killah', 'Tiago PZK']","['3Apb2lGmGJaBmr0TTBJvIZ', '4m6ubhNsdwF4psNf3R8kwR', '1bAftSH8umNcGZ0uyV7LMg', '1DxLCyH42yaHKGK3cl5bvG', '1vqR17Iv8VFdzure1TAXEq', '5Y3MV9DZ0d87NnVm56qSY1']",2021-03-04,0.397,0.613,0.0549,0.0,0.405
+93858,5Km4r87BoX2qqtoprYS1gh,LOCATION,86,"['KAROL G', 'Anuel AA', 'J Balvin']","['790FomKkXshlbRYZFtlgla', '2R21vXR83lH98kGeO99Y66', '1vyhD5VmyZ7KMfW5gqLgo5']",2021-02-12,0.772,0.758,0.0482,0.0,0.654
+93863,1mauYRwbpoGQX6itP2FAJC,Fan de Tus Fotos,86,"['Nicky Jam', 'Romeo Santos']","['1SupJlEpv7RS2tPNRaHViT', '5lwmRuXgjX8xIwlnauTZIP']",2021-02-08,0.728,0.689,0.0725,1.26e-05,0.431
+93865,2dl5K2ScW7jYhAhuem06cm,PROBLEMA,86,['Daddy Yankee'],['4VMYDCV2IEDYJArk749S6m'],2021-02-26,0.773,0.8,0.0987,0.00403,0.842
+93867,5SFXOMJJ334Wn2PwBHeRZN,Girls Like Us,86,['Zoe Wees'],['03d2mJXSMtuPI0nIvLnhoS'],2021-01-12,0.444,0.648,0.0476,0.0,0.171
+93861,2pPO9YecZimmuVQfIzfV6U,Wasted Love (feat. Lagique),86,"['Ofenbach', 'Lagique']","['4AKwRarlmsUlLjIwt38NLw', '1PbtWtrN7jZpd4toqxrjm2']",2021-01-08,0.734,0.855,0.135,4.73e-06,0.54
+93860,6Tio0ZoDeSQnI7EBAqWer2,Cover Me In Sunshine,86,"['P!nk', 'Willow Sage Hart']","['1KCSPY1glIKqW2TotWuXOR', '0gAILSEru1PKMwP0tAqNLS']",2021-02-12,0.476,0.594,0.135,0.0,0.314
+119457,2xgACMNtJ5YktyvOC83SPO,On The Ground,86,['ROSÉ'],['3eVa5w3URK5duf6eyVDbu9'],2021-03-12,0.311,0.607,0.11,0.0,0.286
+93862,4FRW5Nza1Ym91BGV4nFWXI,Lemon Pepper Freestyle (feat. Rick Ross),86,"['Drake', 'Rick Ross']","['3TVXtAsR1Inumwj472S9r4', '1sBkRIssrMs1AbVkOJbc7a']",2021-03-05,0.77,0.637,0.345,0.0,0.431
+93869,1Crj1zkRMpsEjb9NOR6Zof,"L-Gante: Bzrp Music Sessions, Vol.38",85,"['Bizarrap', 'L-Gante']","['716NhGYqD1jl2wI1Qkgq36', '4YYxffPVDFe9XoqqbRW6Bq']",2021-03-10,0.553,0.819,0.257,1.36e-05,0.761
+93870,3CeCwYWvdfXbZLXFhBrbnf,Love Story (Taylor’s Version),85,['Taylor Swift'],['06HL4z0CvFAxyc27GXpf02'],2021-02-12,0.626,0.79,0.0311,3.97e-06,0.416
+93871,6F2r4HgpJnvKDmkN6JEN6J,As I Am (feat. Khalid),85,"['Justin Bieber', 'Khalid']","['1uNFoZAHBGtllmzznpCI3s', '6LuN9FCkKOj5PcnpouEgny']",2021-03-19,0.595,0.543,0.038,0.0,0.109
+93872,4jPy3l0RUwlUI9T5XHBW2m,Mood (feat. iann dior),85,"['24kGoldn', 'iann dior']","['6fWVd57NKTalqvmjRd2t8Z', '6ASri4ePR7RlsvIQgWPJpS']",2021-03-26,0.701,0.716,0.0361,0.0,0.732
+93873,11ZulcYY4lowvcQm4oe3VJ,Slumber Party (feat. Princess Nokia),85,"['Ashnikko', 'Princess Nokia']","['3PyJHH2wyfQK3WZrk9rpmP', '6lay1nwbE6hTx1jivysUAL']",2021-01-15,0.964,0.398,0.0795,3.95e-05,0.563
+93874,2Gjt4rUHBUH0rMKpBg0hF4,Disco Arranhado - Funk Remix,85,"['Malu', 'DJ Lucas Beat']","['3fll16LLw6kdDxWzSpJPEQ', '2zWqENF4cnsd1nLmraG9IE']",2021-01-22,0.747,0.725,0.363,0.0,0.904
+93875,73O30uMI7n6DuzBmbtO7kC,Antes,85,"['Anuel AA', 'Ozuna']","['2R21vXR83lH98kGeO99Y66', '1i8SpTcr7yvPOmcqrbnVXY']",2021-01-22,0.817,0.737,0.102,1.57e-05,0.67
+93876,1LXb70u8SLsvBAPWHMCTMe,Machu Picchu,85,"['Camilo', 'Evaluna Montaner']","['28gNT5KBp7IjEOQoevXf9N', '52qzWdNUp6ebjcNsvgZSiC']",2021-03-01,0.788,0.789,0.124,0.0,0.867
+93877,2h9TDNEXRhcDIV3fsoEVq9,What Other People Say,85,"['Sam Fischer', 'Demi Lovato']","['6L1XC7NrmgWRlwAeLJvVtA', '6S2OmqARrzebs0tKUEyXyp']",2021-02-04,0.652,0.472,0.0399,0.0,0.24
+93878,2WnAKZefdRHxtBEkRjFOHC,Anyone,85,['Justin Bieber'],['1uNFoZAHBGtllmzznpCI3s'],2021-03-19,0.685,0.521,0.0345,3.59e-06,0.578
+93868,2pn8dNVSpYnAtlKFC8Q0DJ,On The Ground,85,['ROSÉ'],['3eVa5w3URK5duf6eyVDbu9'],2021-03-12,0.311,0.607,0.11,0.0,0.286
+93855,748mdHapucXQri7IAO8yFK,Kiss Me More (feat. SZA),85,"['Doja Cat', 'SZA']","['5cj0lLjcoR7YOSnhnX0Po5', '7tYKF4w9nC0nq9CsPZTHyP']",2021-04-09,0.762,0.701,0.0286,0.000158,0.742
